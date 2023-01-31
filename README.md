@@ -5,7 +5,7 @@ I just started this because there seems to be a large want for this kind of thin
 
 Here is my propsal: 
 
-- [ ] Develop GPT ATC model using existing modal, tune it to ATC commands
+- [ ] Develop GPT ATC model using existing model, tune it to ATC commands
 - [ ] Somehow tap into live traffic models and make sure AI ATC knows where that traffic is
 - [ ] Create ingestion model for flight planning with popular flight planning tools 
 - [ ] Work on voice-to-text input model for pilot to ATC comms
